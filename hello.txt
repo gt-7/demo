@@ -1,1 +1,8 @@
 11113311
+<<<<<<< HEAD
+=======
+wqeqweqweqw
+qweqwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+qweqweqweqwe
+qweqweqweqweeeqweqweqweqwee
+>>>>>>> dev
